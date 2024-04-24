@@ -17,6 +17,18 @@ font-family: 'Jersey 10', sans-serif;
      height: 330px;
 }
 
+.tags{
+    font-size: 1.5em;
+}
+
+.card-title{
+    font-size: 1.9em;
+}
+
+.abouttags{
+    font-size: 2em;
+}
+
 .cursor{
     display: inline-block;
     animation: blink 1s infinite;
